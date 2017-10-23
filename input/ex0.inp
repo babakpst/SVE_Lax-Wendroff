@@ -1,0 +1,40 @@
+Name: ex1 - based on the microprocessor paper.
+
+Total run time (in seconds): 
+6000
+
+Time step (in seconds):
+0.01 
+
+Upstream boundary condition, constant flow (m^3/s):  
+20.0
+
+Downstream water depth (in meters):
+2.0
+
+Initial control volume: ( V = L * B * h)
+200
+
+Control Volume ratio:
+0.00
+
+Total number of reaches:
+1
+
+Total Length (in meter) for each reach:
+2000
+
+Discretization: number of cells per reach:
+400
+
+Geometry of the each reach: Straight or Formulated reach (0: means a straight reach, 1: means a Formulated)
+0
+
+Slope for each slope:
+1.0e-03
+
+Manning's number for each slope:
+0.01
+
+Cross section widths of each slope (in meter, assumed to be rectangular for now):
+10
