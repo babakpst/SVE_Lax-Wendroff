@@ -1,9 +1,8 @@
-
-##############################################################################
+####################################################################################################
 #
 # Code developed by: Dr. Babak Poursartip
 # Supervised by:     Dr. Ben R. Hodges
-# 
+#
 # Start date:    08/18/2017
 # Latest update: 10/10/2017
 #
@@ -17,15 +16,15 @@
 #    Machalinska et al. Lax-Wendroff and McCormack Scheme for Numerical 
 #    Simulation of Unsteady Gradually and Rapidly Varied Open Channel Flow
 #
-##############################################################################
+####################################################################################################
 
 def main(arg):
 
 
-    # Import built-in libraries =======================================================================
+    # Import built-in libraries ====================================================================
     # import numpy as np --delete
 
-    # Import classes ==================================================================================
+    # Import classes ===============================================================================
     import sys
     import Solver_Class
     import math  # 
